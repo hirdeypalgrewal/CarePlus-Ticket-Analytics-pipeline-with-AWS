@@ -36,7 +36,7 @@ Careplus is a support system that logs tickets and system errors, capturing both
 
 ## 🧱 **Pipeline Architecture**
 
-![Pipeline Architecture](resources/project_architecture.png)
+![Pipeline Architecture](project_architecture.png)
 
 ### **Data Flow**:
 1. **Support Logs & Tickets**: Data is ingested into **S3** in CSV and log file formats.
@@ -53,7 +53,7 @@ Careplus is a support system that logs tickets and system errors, capturing both
 
 Power BI connects to **Redshift** for visual insights.
 
-![Insights Report](resources/careplus_insights_report1.jpg)
+![Insights Report](careplus_insights_report1.jpg)
 
 ---
 
